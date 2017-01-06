@@ -3,6 +3,7 @@ layout: draft
 ---
 
 # Data Essentials Training
+
 ###### Last updated 2017-01-05
 
 ### What is data?
