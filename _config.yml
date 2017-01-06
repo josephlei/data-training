@@ -30,6 +30,7 @@ destination: ./_site
 markdown: kramdown
 theme: minima
 gems:
+show_drafts: TRUE
 exclude:
   - Gemfile
   - Gemfile.lock
