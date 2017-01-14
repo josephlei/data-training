@@ -1,10 +1,11 @@
 ---
 layout: draft
+date: 2017-01-13
 ---
 
 # Data Essentials Training
 
-###### Last updated 2017-01-05
+###### Last updated 2017-01-13
 
 ### What is data?
 - 
