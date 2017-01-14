@@ -1,11 +1,8 @@
 ---
 layout: draft
+title: CA Open Data Contacts
 date: 2017-01-09
 ---
-
-# CA Open Data Contacts
-
-###### Last updated 2017-01-09
 
 Angelica Quirarte, GovOps  
 Portal Admin, Coordinator  
