@@ -18,7 +18,7 @@ title: CA Open Data Training
 email: innovation@state.ca.gov
 description: > # this means to ignore newlines until "baseurl:"
   GovOps CDT ODI Collab
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/data-training" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: josephjlei
 github_username: josephlei
@@ -35,3 +35,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - jekyll-feed
+  - reference
