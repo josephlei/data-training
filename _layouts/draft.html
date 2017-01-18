@@ -24,6 +24,9 @@
 
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
+      <h1>{{page.title}}</h1>
+      <!-- <br> -->
+      Last Updated: {{page.date | date: "%b %-d, %Y" }}
       {{ content }}
     </div>
   </main>
