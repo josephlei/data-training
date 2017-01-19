@@ -1,19 +1,13 @@
 ---
 layout: draft
+title: Data Essentials
 date: 2017-01-13
 ---
 
-# Data Essentials Training
-
-###### Last updated 2017-01-13
-
-### What is data?
-- 
-
 ### How is data commonly stored in government? i.e. data 'format'
 - Excel
-- CSV/TXT
-- Database
+- CSV/TXT (delimited or positional raw text)
+- Databases (access, sql server, teradata, oracle)
 - PDF
 - SAS
 
@@ -31,8 +25,3 @@ date: 2017-01-13
   - A file with no *internal hierarchy*
   - Excel is NOT a flat file format
 - Machine Readable data
-  - 
-
-### Data Formatting for CA Open Data
-Currently CA is focusing on loading flat file data before moving on to hierarchical or geo-spatial etc. data
-For catalog purposes, all data files shall be in .csv format
