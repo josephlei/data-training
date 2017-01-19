@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CA Open Data Contacts
-date: 2017-01-09
+title: Contact
+date: 2017-01-19
 ---
 
 **Angelica Quirarte, GovOps**  
