@@ -10,10 +10,12 @@ date: 2017-01-13
 - Databases (access, sql server, teradata, oracle)
 - PDF
 - SAS
+- XML
+- JSON
 
 ### Why do formats matter?
-- Enable or hinder machine readability
-- xfer size
+- They enable or hinder machine readability
+- They affect file size, which affects file transfer
 
 ### Data FAQs
 - File extensions (**csv, txt, xlsx**)
