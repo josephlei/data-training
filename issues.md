@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Submitting Issues
+date: 2017-01-24
 permalink: /issues/
 ---
 

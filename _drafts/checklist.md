@@ -1,7 +1,8 @@
 ---
 layout: draft
-title: Checklist
+title: Data Upload Checklist
 date: 2017-01-23
+permalink: /checklist/
 ---
 
 ## Data Quality Checks
