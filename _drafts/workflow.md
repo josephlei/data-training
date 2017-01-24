@@ -54,4 +54,37 @@ This role is assigned to department level data steward who reviews and approves 
 1. License
     - Select 'Other (Public Domain)'
 
-#### **Step 5:**
+#### **Step 5: From the add data page, populate the following metadata fields then click 'Next: Additional Info'**
+
+![workflow screenshot 5](../assets/workflow/workflow-05.png)
+
+1. Upload
+    - Select tabular data or shapefile to upload
+    - Do NOT use the 'API or Website URL' or 'Remote file' options at this time
+2. Data Previews
+    - Select 'Grid' if the data is tabular
+    - Do NOT use the 'Map' or 'Graph' options at this time
+3. Delmiter
+    - For tabular data, select the appropriate delimiter character
+4. Embed
+    - Do NOT use this field at this time
+5. Title
+    - Enter a title for the RESOURCE, this is different from the title for the DATASET but may be similar
+    - For example, if the over-arching DATASET title is "Driver Licenses Issued" the title of the RESOURCES may be:
+        -  "Driver Licenses and ID Cards Issued **Data File**"
+        -  "Driver Licenses and ID Cards Issued **Data Dictionary**"
+6. Description
+    - A brief description of the resource, this can be omitted if the title is sufficiently self explanatory
+7. Text Format
+    - Do NOT modify this field
+8. Format
+    - Select the appropriate file extension
+9. Dataset
+    - Do NOT modify this field
+10. Revision Information
+    - Change 'Moderation State' to Needs Review once ready to be reviewed by the departmental data coordinators
+
+
+
+
+
