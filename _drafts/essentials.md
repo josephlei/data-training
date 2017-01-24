@@ -1,6 +1,6 @@
 ---
 layout: draft
-title: Data Essentials
+title: Data Essentials (101)
 date: 2017-01-13
 ---
 
