@@ -13,4 +13,6 @@ permalink: /resources/
 
 [US Federal Project Open Data Main Page](https://project-open-data.cio.gov/)  
 
-[US Federal Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/)
+[US Federal Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/)  
+
+[Propublica guide to bullet proofing data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
