@@ -20,9 +20,9 @@ description: > # this means to ignore newlines until "baseurl:"
   CA Open Data Training
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: josephjlei
-github_username: josephlei
-author: Joseph Lei
+#twitter_username: josephjlei
+github_username: Office-of-Digital-Innovation
+author: CA Open Data Team
 destination: ./_site
 
 # Build settings
