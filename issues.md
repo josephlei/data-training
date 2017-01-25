@@ -11,14 +11,14 @@ permalink: /issues/
 
 #### **Step 2: Click on the "Issues" tab shown below**
 
-![how to submit issues screenshot 1](../assets/howto-issues/howto-issues-1.png)
+![how to submit issues screenshot 1](../assets/howto-issues/howto-issues-01.png)
 
 #### **Step 3: Click the green "New Issue" button**
 
-![how to submit issues screenshot 2](../assets/howto-issues/howto-issues-2.png)
+![how to submit issues screenshot 2](../assets/howto-issues/howto-issues-02.png)
 
 #### **Step 4: Fill out a title and extended description if necessary**
 
 #### **Step 5: Click the green "Submit new issue" button**
 
-![how to submit issues screenshot 3](../assets/howto-issues/howto-issues-3.png)
+![how to submit issues screenshot 3](../assets/howto-issues/howto-issues-03.png)
