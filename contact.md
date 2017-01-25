@@ -5,6 +5,10 @@ date: 2017-01-19
 permalink: /contact/
 ---
 
+**General Inquiries:** [opendata@state.ca.gov](mailto:opendata@state.ca.gov)
+
+---
+<br>
 **Angelica Quirarte, GovOps**  
 Portal Admin, Coordinator  
 angelica.quirarte@govops.ca.gov  
