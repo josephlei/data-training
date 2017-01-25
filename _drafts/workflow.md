@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: Data Workflow Process
-date: 2017-01-18
+date: 2017-01-24
 permalink: /workflow/
 ---
 
