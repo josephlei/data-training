@@ -7,7 +7,7 @@ permalink: /issues/
 
 #### If there is a error or suggested update, please follow the steps below to submit a issue so it may be corrected:
 
-#### **Step 1: Visit the GitHub repository that powers this website, currently this is:** [https://office-of-digital-innovation.github.io/data-training/](https://github.com/josephlei/data-training)
+#### **Step 1: Visit the GitHub repository that powers this website, currently this is:** [https://office-of-digital-innovation.github.io/data-training/](https://github.com/office-of-digital-innovation/data-training)
 
 #### **Step 2: Click on the "Issues" tab shown below**
 

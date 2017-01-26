@@ -84,7 +84,34 @@ This role is assigned to department level data steward who reviews and approves 
 10. Revision Information
     - Change 'Moderation State' to Needs Review once ready to be reviewed by the departmental data coordinators
 
+#### **Step 6: From the additional data page, populate the following metadata fields then click 'Finish'**
 
+![workflow screenshot 6](../assets/workflow/workflow-06.png)
 
-
-
+1. Author 
+    - Do NOT use this field at this time
+2. Spatial/Geographical Coverage Area
+    - Do NOT use this field at this time
+3. Spatial/Geographical Coverage Location
+    - Enter State if data is statewide, otherwise leave blank
+4. Frequency
+    - Enter frequency of data updates if known
+5. Temporal Coverage
+    - If data covers start/end dates, enter them here in the format mm/dd/yyyy hh:mm:ss
+    - These fields are optional but if a date is entered a time must be entered as well
+6. Granularity
+    - Do NOT use this field at this time
+7. Data Dictionary
+    - Enter data definitions and known limitations as needed
+8. Contact Name
+    - Enter the general GROUP name that manages this data, NOT a individual person's name
+9. Contact Email
+    - Enter the general GROUP email that manages this data, NOT a individual person's email
+10. Public Access Level
+    - Choose Public, if there are concerns about the privacy or contents of the data, contact your department data coordinator prior to submitting or uploading any data
+11. Additional Info
+    - Do NOT use this field at this time
+12. Resources
+    - Do NOT use this field at this time, it will be auto populated
+13. Moderation State
+    - Once ready for review by department data coordinator(s) set this to Needs Review
