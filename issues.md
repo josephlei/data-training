@@ -5,6 +5,11 @@ date: 2017-01-25
 permalink: /issues/
 ---
 
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://joseph223.typeform.com/to/dYjPYe" data-text="Customer Feedback" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"><a href="https://www.typeform.com/examples/forms/customer-feedback-template/?utm_campaign=dYjPYe&amp;utm_source=typeform.com-6367822-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-customerfeedbackform&amp;utm_term=EN" style="color: #999" target="_blank">Customer feedback form</a>powered by Typeform</div>
+
 #### If there is a error or suggested update, please follow the steps below to submit a issue so it may be corrected:
 
 #### **Step 1: Visit the GitHub repository that powers this website, currently this is:** [https://office-of-digital-innovation.github.io/data-training/](https://github.com/office-of-digital-innovation/data-training)
