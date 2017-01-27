@@ -1,15 +1,16 @@
 ---
 layout: draft
 title: Data Essentials (101)
-date: 2017-01-13
+date: 2017-01-26
+permalink: /101/
 ---
 
-### How is data commonly stored in government? i.e. data 'format'
+### Government data is commonly stored in these formats:
 - Excel
 - CSV/TXT (delimited or positional raw text)
 - Databases (access, sql server, teradata, oracle)
 - PDF
-- SAS
+- SAS (.sas7bdat)
 - XML
 - JSON
 
@@ -26,4 +27,6 @@ date: 2017-01-13
 - "Flat" files
   - A file with no *internal hierarchy*
   - Excel is NOT a flat file format
-- Machine Readable data
+- Hierarchical data
+  - A file with a internal hierarchy/structure
+  - Common examples include **json** and **xml** which are commonly used to exchange data over web protocols
