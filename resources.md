@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 
 #### __California__  
-[CHHS Open Data Handbook](https://chhsdata.github.io/opendatahandbook/)
+[CHHS Open Data Handbook](https://chhsdata.github.io/opendatahandbook/)  
 [GovOps Customer Journey Visual](../assets/files/CUSTOMER JOURNEY 2017-02-07.pdf)
 
 #### __External__  
