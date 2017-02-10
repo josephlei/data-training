@@ -1,8 +1,8 @@
 ---
 layout: draft
-title: Data Workflow Process
+title: Data Publishing Process
 date: 2017-01-24
-permalink: /workflow/
+permalink: /publishing/
 ---
 
 ## CA Open Data publishing is controlled through a sequential workflow. As a data coordinator or steward, you will be assigned one of these two roles:
