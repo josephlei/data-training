@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: Data Essentials (101)
-date: 2017-01-26
+date: 2017-02-13
 permalink: /101/
 ---
 

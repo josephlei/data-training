@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: Data Prioritization Considerations
-date: 2017-02-10
+date: 2017-02-14
 permalink: /prioritization/
 ---
 
