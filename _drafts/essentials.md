@@ -14,9 +14,15 @@ permalink: /101/
 - XML
 - JSON
 
-### Why do formats matter?
-- They enable or hinder machine readability
-- They affect file size, which affects file transfer
+### Check data to see how it looks in the portal (tables, charts, graphs)
+
+Once you are satisfied with your table and metadata, change draft status to "needs review," which does not yet publish it to the public site. You will be able to see whether the portal is correctly rendering your tables, charts and graphs. 
+
+### Updating Your Data Table
+
+If your data table needs a full replace or major append (i.e. change) after you’ve published, you can update the new dataset in the portal and mark it as "needs review" for your department data coordinator to review. 
+
+If you plan to make any changes, please let us know so that we can keep track of your recent updates. For frequent updates to data tables (but no other edits) it is recommended that you request Publisher permissions from the Portal Administrator.
 
 ### Data FAQs
 - File extensions (**csv, txt, xlsx**)
