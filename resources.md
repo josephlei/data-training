@@ -6,7 +6,8 @@ permalink: /resources/
 ---
 
 #### __California__  
-[CHHS Open Data Handbook](https://chhsdata.github.io/opendatahandbook/)
+[CHHS Open Data Handbook](https://chhsdata.github.io/opendatahandbook/)  
+[GovOps Customer Journey Visual](../assets/files/CUSTOMER JOURNEY 2017-02-07.pdf)
 
 #### __External__  
 [W3C Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/) - "Resource Description Framework (RDF) vocabulary designed to facilitate interoperability between data catalogs published on the Web" 

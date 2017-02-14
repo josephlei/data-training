@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CA Open Data Training
+title: CA Open Data GitGuide
 email: opendata@state.ca.gov
 description: > # this means to ignore newlines until "baseurl:"
   CA Open Data Training
