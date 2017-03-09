@@ -1,7 +1,7 @@
 ---
 layout: draft
-title: Data Signoff Checklist
-date: 2017-01-25
+title: Approval for Data Publishing
+date: 2017-02-12
 permalink: /checklist/
 ---
 

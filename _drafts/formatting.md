@@ -1,7 +1,9 @@
 ---
 layout: draft
 title: Data Upload Preparation
-date: 2017-01-24
+date: 2017-02-11
+permalink: /formatting/
+published: false
 ---
 
 ### Data Formatting for CA Open Data
