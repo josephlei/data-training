@@ -24,4 +24,4 @@ After reviewing which datasets are of the highest value in the agency, consider 
 
 These are some of the considerations you should consider being choosing what datasets to publish. The rest of this guide will help you publish your data. For more information refer to the [CHHS Open Data Handbook](https://chhsdata.github.io/opendatahandbook/)
 
-The next steps is to make sure that your data is [formatted properly for data publication](/formatting)
+The next steps is to make sure that your data is [formatted properly for data publication](../formatting), otherwise [go back to the site contents page](/)
