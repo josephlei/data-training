@@ -22,4 +22,4 @@ A Data Dictionary is what helps the user decide if your data resource will provi
 
 To help in creating the data dictionary for your resource, we have created a fillable Microsoft Word template. Download that document here {attached}. You should save the filled out file as a PDF and upload it as an associated resource with your dataset.
 
-After completing metadata for your data resource and a data dictionary, the next steps is to get [approval for publishing your resource](../publishing). Otherwise, [go back to the site contents](/).
+After completing metadata for your data resource and a data dictionary, the next steps is to get [approval for publishing your resource](../publishing). Otherwise, [go back to the site contents](https://office-of-digital-innovation.github.io/data-training/).
