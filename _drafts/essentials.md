@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: Preparing Data for Publication
-date: 2017-02-13
+date: 2017-03-14
 permalink: /101/
 ---
 
