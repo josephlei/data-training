@@ -3,6 +3,7 @@ layout: draft
 title: Glossary
 date: 2017-01-19
 permalink: /glossary/
+published: false
 ---
 
 **Data Table**  

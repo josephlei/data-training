@@ -1,7 +1,7 @@
 ---
 layout: draft
 title: Data Publishing Process
-date: 2017-02-10
+date: 2017-03-12
 permalink: /publishing/
 ---
 
