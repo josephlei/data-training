@@ -7,7 +7,7 @@ permalink: /101/
 
 Data is stored throughout state government in many different formats across many different systems. To upload data to the California Open Data portal, you have to save and upload your datasets in a particular format to ensure that they are properly stored and presented by the portal. 
 
-This page continues by describing the format that is needed for the upload to [data.ca.gov](data.ca.gov).
+This page continues by describing the format that is needed for the upload to [data.ca.gov](https://data.ca.gov/).
 
 ### Government data is often stored in a wide-range formats including, but not limited to:
 - Excel
